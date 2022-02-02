@@ -2,6 +2,8 @@
 
 This is a Business Digital Mockup Card built for a course on React skills with Bob Ziroll. It it is a static page, with an image, a body, and a footer. Practice with components and styling.
 
+![Digital Business Card - Tanimara ELIAS SANTOS](public/business-card-app.png)
+
 ## Feature
 
 - Image of the one and truly
