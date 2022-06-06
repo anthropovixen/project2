@@ -52,7 +52,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Author
 
-[Tanimara Elias Santos](https://github.com/anthropovixen)
+[Tanimara Elias Santos](https://github.com/tanimaraeliassantos)
 
 ### Version
 
